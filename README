@@ -16,14 +16,89 @@
 
 
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2024%20mins-blue)
 
-```txt
-C++              7 hrs 56 mins   ███████████████▒░░░░░░░░░   61.97 %
-Python           4 hrs 13 mins   ████████▒░░░░░░░░░░░░░░░░   32.97 %
-Jupyter          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Text             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-411.5%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 26.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 72 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+🌆 Daytime                42 commits          ████████░░░░░░░░░░░░░░░░░   32.31 % 
+🌃 Evening                72 commits          ██████████████░░░░░░░░░░░   55.38 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Wednesday                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Thursday                 42 commits          ████████░░░░░░░░░░░░░░░░░   32.31 % 
+Friday                   41 commits          ████████░░░░░░░░░░░░░░░░░   31.54 % 
+Saturday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   9 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.03 % 
+C++                      3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Markdown                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+
+🔥 Editors: 
+PyCharm                  12 hrs 49 mins      ████████████████░░░░░░░░░   62.76 % 
+WebStorm                 3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+CLion                    3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+
+🐱‍💻 Projects: 
+readme-ai-genie-py       5 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+Demonic_Overlord         3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+streamlit_test           3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+readme-ai-genie          3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+codesenei-project        1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+
+💻 Operating System: 
+Windows                  20 hrs 25 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+HTML                     4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+EJS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
+
+
+ Last Updated on 21/06/2025 04:40:23 UTC
 <!--END_SECTION:waka-->
 
