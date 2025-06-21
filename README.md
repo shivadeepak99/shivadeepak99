@@ -1,7 +1,31 @@
-#  hi
+# 💻 Welcome To my Profile ! -- shivadeepak99
+##   Member 
+[![GitHub Developer Program Member](https://img.shields.io/badge/GitHub-Developer%20Program%20Member-blue?style=flat&logo=github)](https://docs.github.com/en/developers)  
 
-# [![GitHub Developer Program Member](https://img.shields.io/badge/GitHub-Developer%20Program%20Member-blue?style=flat&logo=github)](https://docs.github.com/en/developers) 
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2024%20mins-blue)    ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-411.5%20thousand%20lines%20of%20code-blue)   ![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
+### Author:
+
+[![NPM Version](https://img.shields.io/npm/v/readme-ai-genie?color=crimson&label=readme-ai-genie&logo=npm)](https://www.npmjs.com/package/readme-ai-genie)                          [![PyPI](https://img.shields.io/pypi/v/readme-ai-genie-py?logo=pypi&label=readme-ai-genie-py)](https://pypi.org/project/readme-ai-genie-py/)
+
+
+
+[![PullRider](https://img.shields.io/badge/GitHub%20App-PullRider-blueviolet?logo=github)](https://github.com/apps/pullrider)
+
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2024%20mins-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-411.5%20thousand%20lines%20of%20code-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
+
+
+
+---
+
+### 🌟 About Me
+
+Hey there! I'm **Shiva Deepak** — a night-owl dev with a love for clean code, automation, and building tools that solve actual problems.
+
+
+> “I break things just to rebuild them better.” 🛠️
+
+---
+
+
 
 
 
