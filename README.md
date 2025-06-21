@@ -1,7 +1,12 @@
 # 💻 Welcome To my Profile ! -- shivadeepak99
-##   Member  & Author
-[![GitHub Developer Program Member](https://img.shields.io/badge/GitHub-Developer%20Program%20Member-blue?style=flat&logo=github)](https://docs.github.com/en/developers)  
-[![NPM Version](https://img.shields.io/npm/v/readme-ai-genie?color=crimson&label=readme-ai-genie&logo=npm)](https://www.npmjs.com/package/readme-ai-genie)                          [![PyPI](https://img.shields.io/pypi/v/readme-ai-genie-py?logo=pypi&label=readme-ai-genie-py)](https://pypi.org/project/readme-ai-genie-py/)[![PullRider](https://img.shields.io/badge/GitHub%20App-PullRider-blueviolet?logo=github)](https://github.com/apps/pullrider)
+##   Member [![GitHub Developer Program Member](https://img.shields.io/badge/GitHub-Developer%20Program%20Member-blue?style=flat&logo=github)](https://docs.github.com/en/developers)  
+
+### Author
+#### NPM @   [![NPM Version](https://img.shields.io/npm/v/readme-ai-genie?color=crimson&label=readme-ai-genie&logo=npm)](https://www.npmjs.com/package/readme-ai-genie) 
+#### PIP   @  [![PyPI](https://img.shields.io/pypi/v/readme-ai-genie-py?logo=pypi&label=readme-ai-genie-py)](https://pypi.org/project/readme-ai-genie-py/)
+#### Github @ [![PullRider](https://img.shields.io/badge/GitHub%20App-PullRider-blueviolet?logo=github)](https://github.com/apps/pullrider)
+
+
 
 
 
