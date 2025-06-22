@@ -64,31 +64,40 @@ Hey there! I'm **Shiva Deepak** — a night-owl dev with a love for clean code, 
 --->
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-411.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-412.7%20thousand%20lines%20of%20code-blue)
 
+**🐱 My GitHub Data** 
 
+> 📦 26.3 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-🌆 Daytime                44 commits          ████████░░░░░░░░░░░░░░░░░   30.99 % 
-🌃 Evening                76 commits          █████████████░░░░░░░░░░░░   53.52 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+🌞 Morning                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+🌆 Daytime                46 commits          ████████░░░░░░░░░░░░░░░░░   31.51 % 
+🌃 Evening                76 commits          █████████████░░░░░░░░░░░░   52.05 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Wednesday                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Thursday                 42 commits          ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-Friday                   38 commits          ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-Saturday                 32 commits          ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Wednesday                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Thursday                 42 commits          ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+Friday                   38 commits          ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+Saturday                 32 commits          █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 ```
 
 
@@ -98,31 +107,45 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   9 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.03 % 
-C++                      3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-Markdown                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Python                   11 hrs 33 mins      █████████████░░░░░░░░░░░░   51.34 % 
+C++                      3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Markdown                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🔥 Editors: 
-PyCharm                  12 hrs 49 mins      ████████████████░░░░░░░░░   62.76 % 
-WebStorm                 3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-CLion                    3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+PyCharm                  15 hrs 12 mins      █████████████████░░░░░░░░   67.53 % 
+WebStorm                 3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+CLion                    3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+
+🐱‍💻 Projects: 
+readme-ai-genie-py       5 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+codesenei-project        4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Demonic_Overlord         3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+streamlit_test           3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+readme-ai-genie          3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 
 💻 Operating System: 
-Windows                  20 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-HTML                     4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-EJS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+HTML                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+EJS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
+
+
+ Last Updated on 22/06/2025 18:47:52 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
