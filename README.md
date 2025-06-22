@@ -70,16 +70,7 @@ Hey there! I'm **Shiva Deepak** — a night-owl dev with a love for clean code, 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-411.6%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
 
-> 📦 26.3 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -118,13 +109,6 @@ PyCharm                  12 hrs 49 mins      ███████████�
 WebStorm                 3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
 CLion                    3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
 
-🐱‍💻 Projects: 
-readme-ai-genie-py       5 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-Demonic_Overlord         3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-streamlit_test           3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-readme-ai-genie          3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-codesenei-project        1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-
 💻 Operating System: 
 Windows                  20 hrs 25 mins      █████████████████████████   100.00 % 
 ```
@@ -139,13 +123,6 @@ EJS                      1 repo              ██░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
-
-
- Last Updated on 21/06/2025 18:46:55 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
