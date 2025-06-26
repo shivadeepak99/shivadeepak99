@@ -62,42 +62,42 @@ Hey there! I'm **Shiva Deepak** — a night-owl dev with a love for clean code, 
 --->
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-412.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-415.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 26.4 kB Used in GitHub's Storage 
  > 
-> 🏆 97 Contributions in the Year 2025
+> 🏆 100 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-🌆 Daytime                47 commits          ████████░░░░░░░░░░░░░░░░░   31.13 % 
-🌃 Evening                76 commits          █████████████░░░░░░░░░░░░   50.33 % 
-🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+🌞 Morning                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+🌆 Daytime                48 commits          ████████░░░░░░░░░░░░░░░░░   31.37 % 
+🌃 Evening                76 commits          ████████████░░░░░░░░░░░░░   49.67 % 
+🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Tuesday                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Thursday                 42 commits          ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-Friday                   38 commits          ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-Saturday                 32 commits          █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Sunday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Tuesday                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Thursday                 44 commits          ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Friday                   38 commits          ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+Saturday                 32 commits          █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+Sunday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -107,34 +107,34 @@ Sunday                   9 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   9 hrs 36 mins       █████████████░░░░░░░░░░░░   52.01 % 
-Markdown                 1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-JavaScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-GitIgnore file           1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Python                   10 hrs 9 mins       ████████████░░░░░░░░░░░░░   48.53 % 
+Markdown                 1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+JavaScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+HTML                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+JSON                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 
 🔥 Editors: 
-PyCharm                  14 hrs 35 mins      ████████████████████░░░░░   79.00 % 
-WebStorm                 3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+PyCharm                  15 hrs 12 mins      ██████████████████░░░░░░░   72.67 % 
+WebStorm                 5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.33 % 
 
 🐱‍💻 Projects: 
-readme-ai-genie-py       5 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-codesenei-project        5 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-readme-ai-genie          3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-kali-metahunt            1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Biometrics               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+readme-ai-genie-py       5 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+codesenei-project        5 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+readme-ai-genie          3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+viral-dynasty            2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+kali-metahunt            1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 
 💻 Operating System: 
-Windows                  18 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in HTML** 
 
 ```text
-Python                   5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-HTML                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-EJS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HTML                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+EJS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
@@ -144,7 +144,7 @@ EJS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2025 18:52:07 UTC
+ Last Updated on 26/06/2025 18:51:05 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
