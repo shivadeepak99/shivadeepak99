@@ -3,7 +3,7 @@
 
 ### Author
 #### NPM @   [![NPM Version](https://img.shields.io/npm/v/readme-ai-genie?color=crimson&label=readme-ai-genie&logo=npm)](https://www.npmjs.com/package/readme-ai-genie)  
-#### PIP   @  [![PyPI](https://img.shields.io/pypi/v/readme-ai-genie-py?logo=pypi&label=readme-ai-genie-py)](https://pypi.org/project/readme-ai-genie-py/)
+
 #### Github @ [![PullRider](https://img.shields.io/badge/GitHub%20App-PullRider-blueviolet?logo=github)](https://github.com/apps/pullrider)
 
 
@@ -20,10 +20,21 @@
 
 ### 🌟 About Me
 
-Hey there! I'm **Shiva Deepak** — a night-owl dev with a love for clean code, automation, and building tools that solve actual problems.
+Hey there! I'm **Shiva Deepak** — a  dev with a love for clean code, automation, and building tools that solve actual problems.
 
+AI & Data Science Student @ IIIT Kottayam | Full-Stack Developer & Aspiring AI Engineer
 
-> “I break things just to rebuild them better.” 🛠️
+A driven Computer Science student specializing in AI. I don't just learn code; I build intelligent systems. My passion lies in translating complex problems into elegant, efficient solutions. 
+
+I thrive on learning new technologies at lightning speed and am eager to apply my skills to build impactful products.
+
+### 🛠️ Core Competencies & Skills
+
+* **Languages:** Python, C++, JavaScript
+* **Backend:** Node.js, Express.js
+* **Database:** MySQL
+* **AI/ML:** LangChain, Prompt Engineering, Data Structures & Algorithms
+* **Frontend:** HTML, CSS, EJS
 
 ---
 
@@ -154,4 +165,7 @@ EJS                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 21/06/2025 04:40:23 UTC
  -->
+
+
+
 
