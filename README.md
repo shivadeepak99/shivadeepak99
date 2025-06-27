@@ -73,17 +73,15 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 --->
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-415.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 26.4 kB Used in GitHub's Storage 
- > 
-> 🏆 100 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -94,21 +92,21 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-🌆 Daytime                48 commits          ████████░░░░░░░░░░░░░░░░░   31.37 % 
-🌃 Evening                76 commits          ████████████░░░░░░░░░░░░░   49.67 % 
-🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+🌞 Morning                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+🌆 Daytime                48 commits          ████████░░░░░░░░░░░░░░░░░   30.38 % 
+🌃 Evening                79 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Tuesday                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Thursday                 44 commits          ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-Friday                   38 commits          ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-Saturday                 32 commits          █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-Sunday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Tuesday                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Thursday                 44 commits          ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+Friday                   43 commits          ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+Saturday                 32 commits          █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Sunday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 ```
 
 
@@ -118,25 +116,25 @@ Sunday                   9 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   10 hrs 9 mins       ████████████░░░░░░░░░░░░░   48.53 % 
-Markdown                 1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-JavaScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-HTML                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-JSON                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Python                   6 hrs 45 mins       ███████████░░░░░░░░░░░░░░   45.80 % 
+HTML                     3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+JavaScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+CSS                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-PyCharm                  15 hrs 12 mins      ██████████████████░░░░░░░   72.67 % 
-WebStorm                 5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+PyCharm                  9 hrs 13 mins       ████████████████░░░░░░░░░   62.57 % 
+WebStorm                 5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.43 % 
 
 🐱‍💻 Projects: 
-readme-ai-genie-py       5 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-codesenei-project        5 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-readme-ai-genie          3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-viral-dynasty            2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-kali-metahunt            1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+codesenei-project        5 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.60 % 
+viral-dynasty            5 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
+kali-metahunt            1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Biometrics               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+rose-final-model         30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 💻 Operating System: 
-Windows                  20 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -155,7 +153,7 @@ EJS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 18:51:05 UTC
+ Last Updated on 27/06/2025 18:50:20 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
