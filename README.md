@@ -77,36 +77,36 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-415.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-417.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 26.4 kB Used in GitHub's Storage 
+> 📦 26.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-🌆 Daytime                48 commits          ████████░░░░░░░░░░░░░░░░░   30.38 % 
-🌃 Evening                79 commits          ████████████░░░░░░░░░░░░░   50.00 % 
-🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+🌞 Morning                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+🌆 Daytime                48 commits          ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+🌃 Evening                82 commits          █████████████░░░░░░░░░░░░   50.62 % 
+🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Tuesday                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Thursday                 44 commits          ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-Friday                   43 commits          ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-Saturday                 32 commits          █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Sunday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Tuesday                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Thursday                 44 commits          ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Friday                   43 commits          ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+Saturday                 36 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Sunday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
@@ -116,34 +116,34 @@ Sunday                   9 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 45 mins       ███████████░░░░░░░░░░░░░░   45.80 % 
-HTML                     3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-JavaScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-CSS                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Python                   5 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.85 % 
+HTML                     3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+JavaScript               1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+CSS                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 Editors: 
-PyCharm                  9 hrs 13 mins       ████████████████░░░░░░░░░   62.57 % 
-WebStorm                 5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.43 % 
+PyCharm                  7 hrs 29 mins       ███████████████░░░░░░░░░░   59.16 % 
+WebStorm                 5 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.84 % 
 
 🐱‍💻 Projects: 
-codesenei-project        5 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.60 % 
-viral-dynasty            5 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
-kali-metahunt            1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Biometrics               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-rose-final-model         30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+viral-dynasty            5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   40.09 % 
+codesenei-project        3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+kali-metahunt            1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Biometrics               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+rose-final-model         30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 💻 Operating System: 
-Windows                  14 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in Python** 
 
 ```text
-HTML                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-EJS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+HTML                     5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+EJS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -153,7 +153,7 @@ EJS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2025 18:50:20 UTC
+ Last Updated on 28/06/2025 18:49:02 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
