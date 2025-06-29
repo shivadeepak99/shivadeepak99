@@ -73,15 +73,15 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 --->
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-417.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 26.5 kB Used in GitHub's Storage 
+> 📦 26.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -92,21 +92,21 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-🌆 Daytime                48 commits          ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-🌃 Evening                82 commits          █████████████░░░░░░░░░░░░   50.62 % 
-🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+🌞 Morning                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+🌆 Daytime                48 commits          ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+🌃 Evening                82 commits          █████████████░░░░░░░░░░░░   50.31 % 
+🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Tuesday                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Thursday                 44 commits          ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-Friday                   43 commits          ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-Saturday                 36 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Sunday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Tuesday                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Thursday                 44 commits          ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Friday                   43 commits          ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Saturday                 36 commits          ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 ```
 
 
@@ -116,25 +116,25 @@ Sunday                   9 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.85 % 
-HTML                     3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-JavaScript               1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-CSS                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Python                   10 hrs 30 mins      ██████████████░░░░░░░░░░░   54.57 % 
+HTML                     3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+JSON                     2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+JavaScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+CSS                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 29 mins       ███████████████░░░░░░░░░░   59.16 % 
-WebStorm                 5 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.84 % 
+PyCharm                  14 hrs 4 mins       ██████████████████░░░░░░░   73.13 % 
+WebStorm                 5 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
 
 🐱‍💻 Projects: 
-viral-dynasty            5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   40.09 % 
-codesenei-project        3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-kali-metahunt            1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Biometrics               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-rose-final-model         30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+BABY                     8 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.15 % 
+viral-dynasty            5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+kali-metahunt            2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+codesenei-project        1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Biometrics               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 💻 Operating System: 
-Windows                  12 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -153,7 +153,7 @@ EJS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2025 18:49:02 UTC
+ Last Updated on 29/06/2025 18:48:02 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
