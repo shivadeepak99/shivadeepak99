@@ -73,40 +73,42 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 --->
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-417.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-418.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 26.6 kB Used in GitHub's Storage 
  > 
+> 🏆 124 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-🌆 Daytime                48 commits          ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-🌃 Evening                82 commits          █████████████░░░░░░░░░░░░   50.31 % 
-🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+🌞 Morning                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+🌆 Daytime                54 commits          ████████░░░░░░░░░░░░░░░░░   30.17 % 
+🌃 Evening                91 commits          █████████████░░░░░░░░░░░░   50.84 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Tuesday                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Thursday                 44 commits          ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Friday                   43 commits          ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-Saturday                 36 commits          ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Monday                   29 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Tuesday                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Thursday                 44 commits          ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Friday                   43 commits          ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Saturday                 36 commits          █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 ```
 
 
@@ -116,34 +118,34 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   10 hrs 30 mins      ██████████████░░░░░░░░░░░   54.57 % 
-HTML                     3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-JSON                     2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-JavaScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-CSS                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Python                   11 hrs 50 mins      ██████████████░░░░░░░░░░░   54.27 % 
+JavaScript               3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+JSON                     2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+HTML                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+CSS                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-PyCharm                  14 hrs 4 mins       ██████████████████░░░░░░░   73.13 % 
-WebStorm                 5 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+PyCharm                  13 hrs 48 mins      ████████████████░░░░░░░░░   63.30 % 
+WebStorm                 8 hrs               █████████░░░░░░░░░░░░░░░░   36.70 % 
 
 🐱‍💻 Projects: 
-BABY                     8 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.15 % 
-viral-dynasty            5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-kali-metahunt            2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-codesenei-project        1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Biometrics               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+BABY                     10 hrs 44 mins      ████████████░░░░░░░░░░░░░   49.22 % 
+viral-dynasty            5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+decibae-empire           2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+kali-metahunt            2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+rose-final-model         30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 💻 Operating System: 
-Windows                  19 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-HTML                     5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-EJS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
+HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -153,7 +155,7 @@ EJS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2025 18:48:02 UTC
+ Last Updated on 30/06/2025 18:51:26 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
