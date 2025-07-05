@@ -6,7 +6,7 @@
   
 #### Github @ [![PullRider](https://img.shields.io/badge/GitHub%20App-PullRider-blueviolet?logo=github)](https://github.com/apps/pullrider)
 
-<p align="center">
+<p align="center">   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivadeepak99&theme=tokyonight&hide_border=false" />
 </p>
 
