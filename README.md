@@ -12,7 +12,16 @@
 
 
 
+### 🍥 Most Used Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivadeepak99&layout=compact&theme=radical)
 
+
+
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2044%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-425.9%20thousand%20lines%20of%20code-blue)
 
 
 
@@ -49,10 +58,6 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 
 
 
-
-
-
-
 <!--
 
 ### 🐬 GitHub Trophy Wall (I slay, you display)
@@ -65,8 +70,7 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 
 ---
 -->
-### 🍥 Most Used Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivadeepak99&layout=compact&theme=radical)
+
 
 <!---
 
@@ -76,11 +80,6 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 --->
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2044%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-425.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
