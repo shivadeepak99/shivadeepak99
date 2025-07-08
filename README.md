@@ -74,7 +74,7 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 --->
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
@@ -93,21 +93,21 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-🌆 Daytime                55 commits          ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-🌃 Evening                103 commits         ████████████░░░░░░░░░░░░░   50.00 % 
-🌙 Night                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+🌞 Morning                27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+🌆 Daytime                55 commits          ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+🌃 Evening                106 commits         █████████████░░░░░░░░░░░░   50.48 % 
+🌙 Night                  22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Tuesday                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Thursday                 50 commits          ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-Friday                   44 commits          █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Saturday                 46 commits          ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Monday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Thursday                 50 commits          ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Friday                   44 commits          █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+Saturday                 46 commits          █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 
 
@@ -117,24 +117,24 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   25 hrs 38 mins      ███████████████░░░░░░░░░░   60.21 % 
-HTML                     10 hrs 25 mins      ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-Text                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-GitIgnore file           1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Bash                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Python                   21 hrs 8 mins       ██████████████░░░░░░░░░░░   55.99 % 
+HTML                     11 hrs              ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+Text                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+JavaScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+GitIgnore file           53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-PyCharm                  42 hrs 34 mins      █████████████████████████   100.00 % 
+PyCharm                  37 hrs 44 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PROJECT-PromptGOD        23 hrs 11 mins      ██████████████░░░░░░░░░░░   54.45 % 
-Project Idea Vault Stream8 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-auto-ebook               3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-deus_ex_machina          3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-project-LIFE             2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+PROJECT-PromptGOD        26 hrs 31 mins      ██████████████████░░░░░░░   70.25 % 
+auto-ebook               3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+deus_ex_machina          3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+rose-autogpt             1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+project-LIFE             1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 💻 Operating System: 
-Windows                  42 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  37 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -153,7 +153,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2025 18:52:17 UTC
+ Last Updated on 08/07/2025 18:52:22 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
