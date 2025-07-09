@@ -27,6 +27,6 @@ jobs:
 
           SHOW_LANGUAGE: "True"                    # Languages you slay in 🔥
           SHOW_DAYS_OF_WEEK: "True"                # When you boss the hardest 📅
-          SHOW_PROJECTS: "True"                    # Projects you’re killin’ it on 🐱‍💻
+          SHOW_PROJECTS: "False"                    # Projects you’re killin’ it on 🐱‍💻
 
-          SHOW_EDITORS: "True"                     # IDEs where the magic happens ✨
+          SHOW_EDITORS: "False"                     # IDEs where the magic happens ✨
