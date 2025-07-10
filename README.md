@@ -1,6 +1,9 @@
 # 💻 Welcome To my Profile ! -- shivadeepak99
-##   Member [![GitHub Developer Program Member](https://img.shields.io/badge/GitHub-Developer%20Program%20Member-blue?style=flat&logo=github)](https://docs.github.com/en/developers)  
+##   Member [![GitHub Developer Program Member](https://img.shields.io/badge/GitHub-Developer%20Program%20Member-blue?style=flat&logo=github)](https://docs.github.com/en/developers)                [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/shivadeepak99)
      
+     
+
+
 ### Author       
 #### NPM @   [![NPM Version](https://img.shields.io/npm/v/readme-ai-genie?color=crimson&label=readme-ai-genie&logo=npm)](https://www.npmjs.com/package/readme-ai-genie)  
   
