@@ -79,38 +79,38 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-428.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-458.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 27.1 kB Used in GitHub's Storage 
+> 📦 27.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                32 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-🌆 Daytime                60 commits          ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-🌃 Evening                106 commits         ████████████░░░░░░░░░░░░░   46.70 % 
-🌙 Night                  29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+🌞 Morning                32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+🌆 Daytime                64 commits          ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+🌃 Evening                125 commits         ████████████░░░░░░░░░░░░░   49.80 % 
+🌙 Night                  30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Tuesday                  22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Wednesday                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Thursday                 53 commits          ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-Friday                   47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Saturday                 48 commits          █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Sunday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Tuesday                  22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Wednesday                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Thursday                 53 commits          █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Friday                   47 commits          █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Saturday                 63 commits          ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+Sunday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 ```
 
 
@@ -120,11 +120,7 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               0 secs              ██████████████░░░░░░░░░░░   55.83 % 
-CSS                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-Python                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-.env file                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+C++                      0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  0 secs              █████████████████████████   100.00 % 
@@ -133,10 +129,10 @@ Windows                  0 secs              ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ████████████░░░░░░░░░░░░░   47.37 % 
-HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   9 repos             ███████████░░░░░░░░░░░░░░   45.00 % 
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -146,7 +142,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2025 18:54:41 UTC
+ Last Updated on 16/07/2025 18:54:26 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
