@@ -8,7 +8,8 @@
          
   
    
-### Author       
+### Author
+
 #### NPM @   [![NPM Version](https://img.shields.io/npm/v/readme-ai-genie?color=crimson&label=readme-ai-genie&logo=npm)](https://www.npmjs.com/package/readme-ai-genie)  
   
 
