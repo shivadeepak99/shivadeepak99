@@ -1,5 +1,5 @@
 # 💻 Welcome To my Profile ! -- shivadeepak99
-##   Member [![GitHub Developer Program Member](https://img.shields.io/badge/GitHub-Developer%20Program%20Member-blue?style=flat&logo=github)](https://docs.github.com/en/developers)                [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/shivadeepak99) 
+##   [![GitHub Developer Program Member](https://img.shields.io/badge/GitHub-Developer%20Program%20Member-blue?style=flat&logo=github)](https://docs.github.com/en/developers)                [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/shivadeepak99) 
 ![Duolingo Streak](https://img.shields.io/badge/Duolingo-477🔥days-Gold?style=for-the-boys&logo=duolingo&logoColor=green)
       
          
