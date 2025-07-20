@@ -1,5 +1,6 @@
 # 💻 Welcome To my Profile ! -- shivadeepak99
-##   Member [![GitHub Developer Program Member](https://img.shields.io/badge/GitHub-Developer%20Program%20Member-blue?style=flat&logo=github)](https://docs.github.com/en/developers)                [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/shivadeepak99)
+##   Member [![GitHub Developer Program Member](https://img.shields.io/badge/GitHub-Developer%20Program%20Member-blue?style=flat&logo=github)](https://docs.github.com/en/developers)                [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/shivadeepak99) 
+![Duolingo Streak](https://img.shields.io/badge/Duolingo-477🔥days-Gold?style=for-the-boys&logo=duolingo&logoColor=green)
       
          
   
@@ -10,6 +11,10 @@
 
 
 #### Github @ [![PullRider](https://img.shields.io/badge/GitHub%20App-PullRider-blueviolet?logo=github)](https://github.com/apps/pullrider)
+
+
+
+
 
 <p align="center">   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivadeepak99&theme=tokyonight&hide_border=false" />
