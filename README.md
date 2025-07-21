@@ -42,7 +42,7 @@
 
 Hey there! I'm **Shiva Deepak** — a  dev with a love for clean code, automation, and building tools that solve actual problems.
 
-AI & Data Science Student @ IIIT Kottayam | Full-Stack Developer & Aspiring AI Engineer
+AI & Data Science Student @ IIT MADRAS (D)  and  @ IIIT Kottayam | Full-Stack Developer & Aspiring AI Engineer
 
 A driven Computer Science student specializing in AI. I don't just learn code; I build intelligent systems. My passion lies in translating complex problems into elegant, efficient solutions. 
 
