@@ -91,7 +91,6 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 ![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
-![Profile Views](https://komarev.com/ghpvc/?username=shivadeepak99&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-462.2%20thousand%20lines%20of%20code-blue)
