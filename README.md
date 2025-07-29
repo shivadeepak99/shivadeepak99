@@ -90,13 +90,15 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-839.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 37.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 290 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -107,21 +109,21 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-🌆 Daytime                178 commits         ██████████░░░░░░░░░░░░░░░   40.09 % 
-🌃 Evening                181 commits         ██████████░░░░░░░░░░░░░░░   40.77 % 
-🌙 Night                  46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+🌞 Morning                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+🌆 Daytime                179 commits         ██████████░░░░░░░░░░░░░░░   40.04 % 
+🌃 Evening                181 commits         ██████████░░░░░░░░░░░░░░░   40.49 % 
+🌙 Night                  47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Tuesday                  23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Wednesday                151 commits         █████████░░░░░░░░░░░░░░░░   34.01 % 
-Thursday                 68 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Friday                   69 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Saturday                 54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Sunday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Monday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Tuesday                  26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Wednesday                151 commits         ████████░░░░░░░░░░░░░░░░░   33.78 % 
+Thursday                 68 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Friday                   69 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Saturday                 54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Sunday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 ```
 
 
@@ -131,15 +133,15 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   37.82 % 
-Markdown                 6 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-HTML                     6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Bash                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Python                   1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+TypeScript               13 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   38.79 % 
+HTML                     5 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Markdown                 5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Bash                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Python                   1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 💻 Operating System: 
-Windows                  17 hrs 32 mins      █████████████░░░░░░░░░░░░   50.26 % 
-Linux                    17 hrs 21 mins      ████████████░░░░░░░░░░░░░   49.74 % 
+Windows                  17 hrs 19 mins      █████████████░░░░░░░░░░░░   50.89 % 
+Linux                    16 hrs 42 mins      ████████████░░░░░░░░░░░░░   49.11 % 
 ```
 
 **I Mostly Code in Python** 
@@ -159,7 +161,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2025 18:56:18 UTC
+ Last Updated on 29/07/2025 18:57:21 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
