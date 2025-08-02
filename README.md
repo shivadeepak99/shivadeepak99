@@ -107,21 +107,21 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-🌆 Daytime                180 commits         ██████████░░░░░░░░░░░░░░░   39.65 % 
-🌃 Evening                181 commits         ██████████░░░░░░░░░░░░░░░   39.87 % 
-🌙 Night                  50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+🌞 Morning                43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+🌆 Daytime                180 commits         ██████████░░░░░░░░░░░░░░░   39.47 % 
+🌃 Evening                182 commits         ██████████░░░░░░░░░░░░░░░   39.91 % 
+🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Tuesday                  26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Wednesday                154 commits         ████████░░░░░░░░░░░░░░░░░   33.92 % 
-Thursday                 70 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Friday                   71 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Saturday                 54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Sunday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Monday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Tuesday                  26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Wednesday                154 commits         ████████░░░░░░░░░░░░░░░░░   33.77 % 
+Thursday                 70 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Friday                   71 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Saturday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Sunday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 ```
 
 
@@ -131,15 +131,11 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     5 hrs 39 mins       ███████████████████░░░░░░   75.34 % 
-Text                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+HTML                     14 mins             ████████████████████████░   94.47 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 💻 Operating System: 
-Linux                    6 hrs 59 mins       ███████████████████████░░   93.17 % 
-Windows                  30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Linux                    15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -159,7 +155,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2025 18:55:09 UTC
+ Last Updated on 02/08/2025 18:52:28 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
