@@ -90,15 +90,13 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-842.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 37.5 kB Used in GitHub's Storage 
- > 
-> 🏆 305 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -109,21 +107,21 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-🌆 Daytime                183 commits         ██████████░░░░░░░░░░░░░░░   39.19 % 
-🌃 Evening                184 commits         ██████████░░░░░░░░░░░░░░░   39.40 % 
-🌙 Night                  54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+🌞 Morning                46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌆 Daytime                183 commits         ██████████░░░░░░░░░░░░░░░   39.10 % 
+🌃 Evening                184 commits         ██████████░░░░░░░░░░░░░░░   39.32 % 
+🌙 Night                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Tuesday                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Wednesday                156 commits         ████████░░░░░░░░░░░░░░░░░   33.40 % 
-Thursday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Friday                   71 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Saturday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Sunday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Tuesday                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Wednesday                157 commits         ████████░░░░░░░░░░░░░░░░░   33.55 % 
+Thursday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Friday                   71 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Saturday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Sunday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 ```
 
 
@@ -158,7 +156,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2025 18:58:35 UTC
+ Last Updated on 06/08/2025 18:55:54 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
