@@ -88,9 +88,9 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 --->
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-842.9%20thousand%20lines%20of%20code-blue)
 
@@ -107,21 +107,21 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-🌆 Daytime                184 commits         ██████████░░░░░░░░░░░░░░░   38.90 % 
-🌃 Evening                185 commits         ██████████░░░░░░░░░░░░░░░   39.11 % 
-🌙 Night                  58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+🌞 Morning                46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+🌆 Daytime                184 commits         ██████████░░░░░░░░░░░░░░░   38.74 % 
+🌃 Evening                186 commits         ██████████░░░░░░░░░░░░░░░   39.16 % 
+🌙 Night                  59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Tuesday                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Wednesday                157 commits         ████████░░░░░░░░░░░░░░░░░   33.19 % 
-Thursday                 75 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Friday                   73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Saturday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Sunday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Tuesday                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Wednesday                157 commits         ████████░░░░░░░░░░░░░░░░░   33.05 % 
+Thursday                 75 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Friday                   73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Saturday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Sunday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 ```
 
 
@@ -131,14 +131,14 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       26 mins             █████████░░░░░░░░░░░░░░░░   36.19 % 
-C                        19 mins             ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-C++                      13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-C/C++                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-CMake                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Go                       48 mins             █████████████░░░░░░░░░░░░   51.20 % 
+C                        19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+C++                      13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+C/C++                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+CMake                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -158,7 +158,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2025 18:51:18 UTC
+ Last Updated on 10/08/2025 18:50:06 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
