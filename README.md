@@ -49,12 +49,12 @@ A driven Computer Science student specializing in AI. I don't just learn code; I
 
 I thrive on learning new technologies at lightning speed and am eager to apply my skills to build impactful products.
 
-### 🛠️ Core Competencies & Skills
+### 🛠️ Core Competencies & Skills  (LAST UPDATED:December 2024)
 
 * **Languages:** Python, C++, JavaScript
 * **Backend:** Node.js, Express.js
 * **Database:** MySQL
-* **AI/ML:** LangChain, Prompt Engineering, Data Structures & Algorithms
+* **AI/ML:**  Prompt Engineering, Data Structures & Algorithms
 * **Frontend:** HTML, CSS, EJS
 
 ---
