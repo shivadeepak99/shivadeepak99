@@ -11,7 +11,7 @@
           
    
    
-### Author
+### Author and Founder
 
 #### NPM @   [![NPM Version](https://img.shields.io/npm/v/readme-ai-genie?color=crimson&label=readme-ai-genie&logo=npm)](https://www.npmjs.com/package/readme-ai-genie)  
   
@@ -19,6 +19,7 @@
 
 #### Github @ [![PullRider](https://img.shields.io/badge/GitHub%20App-PullRider-blueviolet?logo=github)](https://github.com/apps/pullrider)
 
+#### ongoing Work in Private , stay tuned ! 
 
 
 
