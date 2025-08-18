@@ -20,6 +20,7 @@
 #### Github @ [![PullRider](https://img.shields.io/badge/GitHub%20App-PullRider-blueviolet?logo=github)](https://github.com/apps/pullrider)
 
 #### ongoing Work in Private , stay tuned ! 
+founder@promptforgeai.tech
 
 
 
