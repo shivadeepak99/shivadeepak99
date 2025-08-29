@@ -90,7 +90,7 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 --->
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -109,21 +109,21 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-🌆 Daytime                324 commits         █████████░░░░░░░░░░░░░░░░   36.57 % 
-🌃 Evening                357 commits         ██████████░░░░░░░░░░░░░░░   40.29 % 
-🌙 Night                  119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+🌞 Morning                86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+🌆 Daytime                326 commits         █████████░░░░░░░░░░░░░░░░   36.67 % 
+🌃 Evening                357 commits         ██████████░░░░░░░░░░░░░░░   40.16 % 
+🌙 Night                  120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Tuesday                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Wednesday                179 commits         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Thursday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Friday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Saturday                 143 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Sunday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Monday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Tuesday                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Wednesday                179 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Thursday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Friday                   134 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Saturday                 143 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Sunday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 ```
 
 
@@ -133,14 +133,14 @@ Sunday                   107 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   24 hrs 28 mins      █████████████░░░░░░░░░░░░   51.65 % 
-Markdown                 7 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-JavaScript               4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-TypeScript               3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-JSON                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Python                   21 hrs 28 mins      ████████████░░░░░░░░░░░░░   46.70 % 
+TypeScript               6 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Markdown                 6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+JavaScript               4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Go                       1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 💻 Operating System: 
-Windows                  47 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  45 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -160,7 +160,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 18:49:53 UTC
+ Last Updated on 29/08/2025 18:47:18 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
