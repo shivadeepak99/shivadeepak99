@@ -90,7 +90,7 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 --->
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -99,8 +99,6 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 **🐱 My GitHub Data** 
 
 > 📦 194.3 kB Used in GitHub's Storage 
- > 
-> 🏆 501 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -111,21 +109,21 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-🌆 Daytime                468 commits         ██████████░░░░░░░░░░░░░░░   38.55 % 
-🌃 Evening                487 commits         ██████████░░░░░░░░░░░░░░░   40.12 % 
-🌙 Night                  141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+🌞 Morning                118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+🌆 Daytime                468 commits         ██████████░░░░░░░░░░░░░░░   38.52 % 
+🌃 Evening                487 commits         ██████████░░░░░░░░░░░░░░░   40.08 % 
+🌙 Night                  142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Tuesday                  136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Wednesday                221 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Thursday                 179 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Friday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Saturday                 220 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Sunday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Monday                   163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Tuesday                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Wednesday                221 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Thursday                 179 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Friday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 220 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Sunday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 ```
 
 
@@ -135,14 +133,14 @@ Sunday                   136 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 13 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-TypeScript               11 hrs 5 mins       ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Python                   10 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-JavaScript               6 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-JSON                     2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+TypeScript               12 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+Markdown                 10 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+Python                   9 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+JavaScript               6 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+JSON                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 💻 Operating System: 
-Windows                  48 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  45 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +160,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 18:48:11 UTC
+ Last Updated on 09/09/2025 18:46:43 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
