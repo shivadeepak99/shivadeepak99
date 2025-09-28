@@ -89,8 +89,6 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
 --->
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2059%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
@@ -107,44 +105,6 @@ I thrive on learning new technologies at lightning speed and am eager to apply m
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-🌆 Daytime                708 commits         ██████████░░░░░░░░░░░░░░░   39.71 % 
-🌃 Evening                705 commits         ██████████░░░░░░░░░░░░░░░   39.54 % 
-🌙 Night                  171 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Tuesday                  192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Wednesday                302 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Thursday                 258 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Friday                   212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Saturday                 341 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Sunday                   185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   5 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.36 % 
-TypeScript               5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-JavaScript               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Bash                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Text                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-
-💻 Operating System: 
-Windows                  14 hrs 37 mins      █████████████████████░░░░   85.38 % 
-Linux                    2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -162,7 +122,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 18:45:29 UTC
+ Last Updated on 28/09/2025 18:44:30 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
