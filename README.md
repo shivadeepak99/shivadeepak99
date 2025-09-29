@@ -5,7 +5,7 @@
   
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/shivadeepak99) 
 
-![Duolingo Streak](https://img.shields.io/badge/Duolingo-541🔥days-Gold?style=for-the-boys&logo=duolingo&logoColor=green) 
+![Duolingo Streak](https://img.shields.io/badge/Duolingo-551🔥days-Gold?style=for-the-boys&logo=duolingo&logoColor=green) 
         
           
    
