@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivaddeepak99&style=flat-square&color=blue" alt="Profile views" />
+  
   <img src="https://img.shields.io/badge/-AI%20Engineer-black?style=flat&logo=OpenAI&logoColor=white" />
   <img src="https://img.shields.io/badge/-Full%20Stack%20Dev-FF6C37?style=flat&logo=node.js&logoColor=white" />
 </p>
@@ -81,7 +81,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 ### 📊 GitHub Metrics
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%209%20mins-blue)  
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)  
+<img src="https://komarev.com/ghpvc/?username=shivaddeepak99&style=flat-square&color=blue" alt="Profile views" />  
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)  
 
 ---
