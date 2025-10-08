@@ -136,14 +136,14 @@ Sunday                   184 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 4 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.77 % 
-JavaScript               3 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
-TypeScript               1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-HTML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Markdown                 4 hrs 59 mins       ███████████████░░░░░░░░░░   58.15 % 
+JavaScript               1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+HTML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 💻 Operating System: 
-Windows                  11 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +163,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2025 18:50:39 UTC
+ Last Updated on 08/10/2025 18:51:12 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
