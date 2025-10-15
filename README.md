@@ -91,9 +91,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 ---
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2050%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
 
@@ -101,7 +99,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 
 > 📦 198.6 kB Used in GitHub's Storage 
  > 
-> 🏆 827 Contributions in the Year 2025
+> 🏆 828 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -109,39 +107,6 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-🌆 Daytime                756 commits         ██████████░░░░░░░░░░░░░░░   39.62 % 
-🌃 Evening                750 commits         ██████████░░░░░░░░░░░░░░░   39.31 % 
-🌙 Night                  173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Tuesday                  196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Wednesday                395 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Thursday                 266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Friday                   214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Saturday                 359 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Sunday                   184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -159,7 +124,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2025 18:49:13 UTC
+ Last Updated on 15/10/2025 18:50:53 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
