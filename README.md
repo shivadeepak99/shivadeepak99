@@ -91,7 +91,9 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 ---
 
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2050%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
 
@@ -107,6 +109,39 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+🌆 Daytime                756 commits         ██████████░░░░░░░░░░░░░░░   39.60 % 
+🌃 Evening                750 commits         ██████████░░░░░░░░░░░░░░░   39.29 % 
+🌙 Night                  173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Tuesday                  196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Wednesday                396 commits         █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Thursday                 266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Friday                   214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Saturday                 359 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Sunday                   184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -124,7 +159,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2025 18:50:53 UTC
+ Last Updated on 16/10/2025 18:50:56 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
