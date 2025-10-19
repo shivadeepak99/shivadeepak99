@@ -91,7 +91,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 ---
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -112,21 +112,21 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-🌆 Daytime                757 commits         ██████████░░░░░░░░░░░░░░░   39.63 % 
-🌃 Evening                750 commits         ██████████░░░░░░░░░░░░░░░   39.27 % 
-🌙 Night                  173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+🌞 Morning                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+🌆 Daytime                759 commits         ██████████░░░░░░░░░░░░░░░   39.70 % 
+🌃 Evening                750 commits         ██████████░░░░░░░░░░░░░░░   39.23 % 
+🌙 Night                  173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Tuesday                  196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Wednesday                396 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Thursday                 266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Friday                   214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Saturday                 360 commits         █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Sunday                   184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Monday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Tuesday                  196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Wednesday                396 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Thursday                 266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Saturday                 360 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Sunday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 ```
 
 
@@ -136,10 +136,14 @@ Sunday                   184 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       26 mins             █████████░░░░░░░░░░░░░░░░   37.85 % 
+C++                      26 mins             █████████░░░░░░░░░░░░░░░░   37.17 % 
+C                        10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -159,7 +163,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2025 18:45:55 UTC
+ Last Updated on 19/10/2025 18:46:21 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
