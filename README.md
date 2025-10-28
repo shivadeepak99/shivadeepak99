@@ -91,7 +91,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 ---
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -99,7 +99,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 
 **🐱 My GitHub Data** 
 
-> 📦 215.7 kB Used in GitHub's Storage 
+> 📦 215.8 kB Used in GitHub's Storage 
  > 
 > 🏆 895 Contributions in the Year 2025
  > 
@@ -136,14 +136,14 @@ Sunday                   192 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
-Markdown                 4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.29 % 
-Go                       1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-TypeScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Python                   8 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.72 % 
+Markdown                 5 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+Go                       1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+TypeScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 💻 Operating System: 
-Windows                  15 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +163,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2025 18:50:59 UTC
+ Last Updated on 28/10/2025 18:53:31 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
