@@ -91,15 +91,15 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 ---
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 215.8 kB Used in GitHub's Storage 
+> 📦 227.3 kB Used in GitHub's Storage 
  > 
 > 🏆 895 Contributions in the Year 2025
  > 
@@ -112,21 +112,21 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-🌆 Daytime                953 commits         ██████████░░░░░░░░░░░░░░░   40.80 % 
-🌃 Evening                892 commits         ██████████░░░░░░░░░░░░░░░   38.18 % 
-🌙 Night                  175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+🌞 Morning                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+🌆 Daytime                953 commits         ██████████░░░░░░░░░░░░░░░   40.66 % 
+🌃 Evening                892 commits         ██████████░░░░░░░░░░░░░░░   38.05 % 
+🌙 Night                  175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   329 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Tuesday                  208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Wednesday                635 commits         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-Thursday                 306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Friday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Saturday                 425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Sunday                   192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Monday                   329 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Tuesday                  208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Wednesday                643 commits         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+Thursday                 306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Friday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Saturday                 425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Sunday                   192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 ```
 
 
@@ -136,14 +136,14 @@ Sunday                   192 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.72 % 
-Markdown                 5 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-Go                       1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-TypeScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Python                   7 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.51 % 
+Markdown                 5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Go                       1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+C++                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+C                        48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 💻 Operating System: 
-Windows                  20 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +163,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2025 18:53:31 UTC
+ Last Updated on 29/10/2025 18:51:47 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
