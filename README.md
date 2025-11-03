@@ -107,43 +107,6 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-🌆 Daytime                955 commits         ██████████░░░░░░░░░░░░░░░   40.66 % 
-🌃 Evening                892 commits         █████████░░░░░░░░░░░░░░░░   37.97 % 
-🌙 Night                  175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   329 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Tuesday                  208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Wednesday                643 commits         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Thursday                 308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Friday                   244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Saturday                 425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Sunday                   192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-C                        5 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.57 % 
-Python                   5 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-C/C++                    1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Markdown                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-TypeScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-
-💻 Operating System: 
-Windows                  17 hrs 21 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -161,7 +124,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 18:45:23 UTC
+ Last Updated on 03/11/2025 18:48:33 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
