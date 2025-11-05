@@ -91,7 +91,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 ---
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -136,14 +136,14 @@ Sunday                   192 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        8 hrs 33 mins       ██████████████░░░░░░░░░░░   55.05 % 
-C/C++                    3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Python                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-C++                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-TypeScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+C                        8 hrs 47 mins       ███████████████░░░░░░░░░░   59.08 % 
+C/C++                    3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 Operating System: 
-Windows                  15 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +163,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2025 18:52:01 UTC
+ Last Updated on 05/11/2025 18:52:08 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
