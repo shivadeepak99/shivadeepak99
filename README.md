@@ -136,13 +136,10 @@ Sunday                   208 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   48 mins             ████████████░░░░░░░░░░░░░   49.75 % 
-Markdown                 21 mins             █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-Text                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +159,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2025 18:49:10 UTC
+ Last Updated on 22/11/2025 18:49:01 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
