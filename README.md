@@ -93,7 +93,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
@@ -159,7 +159,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2025 18:54:03 UTC
+ Last Updated on 25/11/2025 18:52:31 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
