@@ -99,7 +99,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 
 **🐱 My GitHub Data** 
 
-> 📦 515.5 kB Used in GitHub's Storage 
+> 📦 515.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,093 Contributions in the Year 2025
  > 
@@ -163,7 +163,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2025 18:49:36 UTC
+ Last Updated on 07/12/2025 18:48:59 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
