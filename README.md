@@ -91,17 +91,17 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 ---
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 517.6 kB Used in GitHub's Storage 
+> 📦 518.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,164 Contributions in the Year 2025
+> 🏆 1,172 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -112,21 +112,21 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                464 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-🌆 Daytime                1194 commits        ██████████░░░░░░░░░░░░░░░   38.24 % 
-🌃 Evening                1254 commits        ██████████░░░░░░░░░░░░░░░   40.17 % 
-🌙 Night                  210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+🌞 Morning                467 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+🌆 Daytime                1205 commits        ██████████░░░░░░░░░░░░░░░   38.34 % 
+🌃 Evening                1259 commits        ██████████░░░░░░░░░░░░░░░   40.06 % 
+🌙 Night                  212 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   475 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Tuesday                  356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Wednesday                789 commits         ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Thursday                 474 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Friday                   383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Saturday                 432 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Sunday                   213 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Monday                   475 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Tuesday                  356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Wednesday                789 commits         ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+Thursday                 474 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Friday                   383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Saturday                 453 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Sunday                   213 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 ```
 
 
@@ -136,24 +136,24 @@ Sunday                   213 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   14 hrs 22 mins      ████████████░░░░░░░░░░░░░   48.03 % 
-Markdown                 6 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-JSON                     4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-TypeScript               2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Bash                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Python                   15 hrs 39 mins      █████████████░░░░░░░░░░░░   51.91 % 
+Markdown                 6 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+JSON                     5 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+TypeScript               1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Text                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 💻 Operating System: 
-Windows                  29 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
-HTML                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   16 repos            █████████░░░░░░░░░░░░░░░░   34.78 % 
+TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
@@ -163,7 +163,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2025 18:54:59 UTC
+ Last Updated on 13/12/2025 18:49:40 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
