@@ -91,8 +91,6 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 ---
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2029%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.37%20million%20lines%20of%20code-blue)
@@ -101,7 +99,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 
 > 📦 579.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -109,43 +107,6 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                488 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-🌆 Daytime                1249 commits        █████████░░░░░░░░░░░░░░░░   37.55 % 
-🌃 Evening                1349 commits        ██████████░░░░░░░░░░░░░░░   40.56 % 
-🌙 Night                  240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   522 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Tuesday                  366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Wednesday                796 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-Thursday                 486 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Friday                   394 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Saturday                 472 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Sunday                   290 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 8 hrs 18 mins       ████████████░░░░░░░░░░░░░   47.97 % 
-Python                   3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Bash                     2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-TypeScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-
-💻 Operating System: 
-Windows                  17 hrs 19 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -163,7 +124,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:55:06 UTC
+ Last Updated on 02/01/2026 18:54:20 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
