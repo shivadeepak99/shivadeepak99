@@ -91,7 +91,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 ---
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -101,7 +101,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 
 > 📦 580.4 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2026
+> 🏆 24 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -113,20 +113,20 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 
 ```text
 🌞 Morning                503 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-🌆 Daytime                1292 commits        █████████░░░░░░░░░░░░░░░░   36.77 % 
-🌃 Evening                1455 commits        ██████████░░░░░░░░░░░░░░░   41.41 % 
-🌙 Night                  264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+🌆 Daytime                1292 commits        █████████░░░░░░░░░░░░░░░░   36.75 % 
+🌃 Evening                1456 commits        ██████████░░░░░░░░░░░░░░░   41.41 % 
+🌙 Night                  265 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   533 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Tuesday                  403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Wednesday                830 commits         ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Thursday                 536 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Friday                   422 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Saturday                 495 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Sunday                   295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Monday                   534 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Tuesday                  403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Wednesday                830 commits         ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Thursday                 536 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Friday                   422 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Saturday                 495 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Sunday                   296 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 ```
 
 
@@ -136,14 +136,14 @@ Sunday                   295 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 7 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.77 % 
-Python                   5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Text                     3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Other                    3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-C++                      1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Other                    7 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+Markdown                 7 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Python                   5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Text                     3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+C++                      1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 💻 Operating System: 
-Windows                  22 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +163,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2026 18:53:31 UTC
+ Last Updated on 12/01/2026 18:58:52 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
