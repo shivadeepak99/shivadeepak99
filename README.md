@@ -91,17 +91,15 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 ---
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%2021%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.16%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.42%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 581.4 kB Used in GitHub's Storage 
+> 📦 581.8 kB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2026
+> 🏆 53 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -109,43 +107,6 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                526 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-🌆 Daytime                1376 commits        █████████░░░░░░░░░░░░░░░░   35.94 % 
-🌃 Evening                1621 commits        ███████████░░░░░░░░░░░░░░   42.33 % 
-🌙 Night                  306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   546 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Tuesday                  437 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Wednesday                860 commits         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Thursday                 641 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Friday                   485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Saturday                 542 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Sunday                   318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   15 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   35.27 % 
-Other                    13 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   30.59 % 
-Markdown                 11 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-Text                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-TypeScript               51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-
-💻 Operating System: 
-Windows                  43 hrs 1 min        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -163,7 +124,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 18:59:04 UTC
+ Last Updated on 01/02/2026 19:02:54 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
