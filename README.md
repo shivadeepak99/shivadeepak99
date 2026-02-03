@@ -91,15 +91,17 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 ---
 
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2014%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.11%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 581.8 kB Used in GitHub's Storage 
+> 📦 582.2 kB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2026
+> 🏆 348 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -107,12 +109,49 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                763 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+🌆 Daytime                2235 commits        ████████░░░░░░░░░░░░░░░░░   33.95 % 
+🌃 Evening                3058 commits        ████████████░░░░░░░░░░░░░   46.45 % 
+🌙 Night                  528 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   833 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Tuesday                  759 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Wednesday                1152 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Thursday                 1388 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Friday                   914 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Saturday                 887 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Sunday                   651 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    13 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   32.07 % 
+Markdown                 8 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Python                   8 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+TypeScript               5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Bash                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+
+💻 Operating System: 
+Windows                  41 hrs 35 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
 Python                   17 repos            ████████░░░░░░░░░░░░░░░░░   34.00 % 
-TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               14 repos            ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
 JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
@@ -124,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 19:02:54 UTC
+ Last Updated on 03/02/2026 19:29:18 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
