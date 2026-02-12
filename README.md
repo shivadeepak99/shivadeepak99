@@ -91,7 +91,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 ---
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
@@ -101,7 +101,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 
 > 📦 582.2 kB Used in GitHub's Storage 
  > 
-> 🏆 373 Contributions in the Year 2026
+> 🏆 374 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -112,21 +112,21 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                811 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-🌆 Daytime                2440 commits        ████████░░░░░░░░░░░░░░░░░   33.46 % 
-🌃 Evening                3446 commits        ████████████░░░░░░░░░░░░░   47.25 % 
-🌙 Night                  596 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+🌞 Morning                812 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+🌆 Daytime                2442 commits        ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌃 Evening                3446 commits        ████████████░░░░░░░░░░░░░   47.22 % 
+🌙 Night                  597 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   932 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Tuesday                  880 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Wednesday                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Thursday                 1545 commits        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Friday                   999 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Monday                   932 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Tuesday                  880 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Wednesday                1255 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Thursday                 1547 commits        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Friday                   999 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 Saturday                 971 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Sunday                   712 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Sunday                   713 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 ```
 
 
@@ -136,14 +136,14 @@ Sunday                   712 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-Other                    1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-Python                   1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-TypeScript               59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Python                   1 hr 26 mins        ███████████░░░░░░░░░░░░░░   45.73 % 
+Markdown                 47 mins             ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+YAML                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Docker                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 
 💻 Operating System: 
-Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2026 19:37:46 UTC
+ Last Updated on 12/02/2026 19:36:50 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
