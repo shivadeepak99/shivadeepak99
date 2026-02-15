@@ -101,7 +101,7 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 
 > 📦 584.2 kB Used in GitHub's Storage 
  > 
-> 🏆 396 Contributions in the Year 2026
+> 🏆 397 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -113,9 +113,9 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 
 ```text
 🌞 Morning                803 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-🌆 Daytime                2431 commits        ████████░░░░░░░░░░░░░░░░░   33.51 % 
-🌃 Evening                3425 commits        ████████████░░░░░░░░░░░░░   47.21 % 
-🌙 Night                  596 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+🌆 Daytime                2431 commits        ████████░░░░░░░░░░░░░░░░░   33.50 % 
+🌃 Evening                3425 commits        ████████████░░░░░░░░░░░░░   47.20 % 
+🌙 Night                  597 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -123,10 +123,10 @@ Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation
 Monday                   939 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 Tuesday                  892 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 Wednesday                1250 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Thursday                 1511 commits        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Friday                   998 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Thursday                 1511 commits        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+Friday                   998 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 Saturday                 962 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Sunday                   703 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Sunday                   704 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 ```
 
 
@@ -136,14 +136,14 @@ Sunday                   703 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 34 mins        █████████████░░░░░░░░░░░░   52.39 % 
-Docker                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-YAML                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Python                   51 mins             ██████████░░░░░░░░░░░░░░░   40.51 % 
+YAML                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Docker                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 💻 Operating System: 
-Windows                  3 hrs               █████████████████████████   100.00 % 
+Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivadeepak99/shivadeepak99/master/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2026 19:03:06 UTC
+ Last Updated on 15/02/2026 19:05:28 UTC
 <!--END_SECTION:waka-->
 <!--
 **Timeline**
