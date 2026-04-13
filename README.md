@@ -42,13 +42,6 @@
 
 ---
 
-### 🌱 Author and Founder
-
-- **NPM Package:** [![NPM Version](https://img.shields.io/npm/v/readme-ai-genie?color=crimson&label=readme-ai-genie&logo=npm)](https://www.npmjs.com/package/readme-ai-genie)  
-- **GitHub App:** [![PullRider](https://img.shields.io/badge/GitHub%20App-PullRider-blueviolet?logo=github)](https://github.com/apps/pullrider)  
-- ⚡ Ongoing work in private… *stay tuned!*  
-
----
 
 ### 🍥 Most Used Languages
 <p align="center">
