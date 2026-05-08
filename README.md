@@ -1,23 +1,27 @@
-<h1 align="center">👋 Hey, I'm ShivaDeepak </h1>
-  CONTACT ME AT : hello@shivadeepak.dev
+<h1 align="center">👋 Hey, I'm ShivaDeepak</h1>
+
+<p align="center">
+  <strong>CONTACT ME AT :</strong>
+  <a href="mailto:hello@shivadeepak.dev">hello@shivadeepak.dev</a>
+</p>
+
 <p align="center"> 
   <a href="https://github.com/sponsors/shivadeepak99">
     <img src="https://img.shields.io/badge/Sponsor%20Me-💖-ff69b4?style=for-the-badge" alt="Sponsor me" />
   </a>
-</p> 
+</p>
 
 <p align="center">
-  
   <img src="https://img.shields.io/badge/-AI%20Engineer-black?style=flat&logo=OpenAI&logoColor=white" />
   <img src="https://img.shields.io/badge/-Full%20Stack%20Dev-FF6C37?style=flat&logo=node.js&logoColor=white" />
 </p>
- 
---- 
+
+---
 
 ### 🛠️ Tech Stack
- 
+
 <p align="center">
-   <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -42,8 +46,8 @@
 
 ---
 
-
 ### 🍥 Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivadeepak99&layout=compact&theme=radical" />
 </p>
@@ -52,26 +56,29 @@
 
 ### 🌟 About Me
 
-Hey there! I'm **Shiva Deepak** — a dev with a love for clean code, automation, and building tools that solve actual problems.  
+<p align="center">
+  Hey there! I'm <strong>Shiva Deepak</strong> — a dev with a love for clean code, automation, and building tools that solve actual problems.
+</p>
 
-- 🎓 AI & Data Science Student @ IIT MADRAS & IIIT Kottayam  
-- 💻 Full-Stack Developer & Aspiring AI Engineer  
-- 🔐 Keen interest in combining (Cyber + AI)  
-- ⚡ Passion: translating complex problems into elegant, efficient solutions  
-- 🚀 Thrive on learning new technologies at lightning speed  
+<ul>
+  <li>🎓 AI & Data Science Student @ IIT MADRAS & IIIT Kottayam</li>
+  <li>💻 Full-Stack Developer & Aspiring AI Engineer</li>
+  <li>🔐 Keen interest in combining (Cyber + AI)</li>
+  <li>⚡ Passion: translating complex problems into elegant, efficient solutions</li>
+  <li>🚀 Thrive on learning new technologies at lightning speed</li>
+</ul>
 
 ---
 
 ### 🧠 Core Competencies & Skills (Last Updated: December 2024)
 
-- **Languages:** Python, C++, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Database:** MySQL  
-- **AI/ML:** Prompt Engineering, Data Structures & Algorithms  
-- **Frontend:** HTML, CSS, EJS  
-
----
-
+<ul>
+  <li><strong>Languages:</strong> Python, C++, JavaScript</li>
+  <li><strong>Backend:</strong> Node.js, Express.js</li>
+  <li><strong>Database:</strong> MySQL</li>
+  <li><strong>AI/ML:</strong> Prompt Engineering, Data Structures & Algorithms</li>
+  <li><strong>Frontend:</strong> HTML, CSS, EJS</li>
+</ul>
 
 ---
 
