@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" role="img" aria-label="Shiva Deepak. I build AI systems that decide what to do next.">
+<title>Shiva Deepak. I build AI systems that decide what to do next.</title>
+<defs>
+<radialGradient id="g" cx="88%" cy="100%" r="70%"><stop offset="0" stop-color="#bc0202" stop-opacity=".42"/><stop offset="1" stop-color="#bc0202" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+.serif{font-family:Georgia,'Iowan Old Style','Times New Roman',serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.h{font-size:54px;fill:#f3ecec;letter-spacing:-1px}
+.em{fill:#ff0000;font-style:italic}
+.cap{font-size:12px;fill:#9e8f8f;letter-spacing:3px}
+.d{font-size:12px;fill:#9e8f8f}
+.v{font-size:12px;fill:#b9acac}
+.x{font-size:12px;fill:#f3ecec;font-weight:600}
+.r .v,.r .x{fill:#ff0000}
+.ln{opacity:0;animation-duration:12.0s;animation-iteration-count:infinite;animation-timing-function:ease-out}
+@keyframes l0{0%,12%{opacity:0}14%,90%{opacity:1}96%,100%{opacity:0}}@keyframes l1{0%,21%{opacity:0}23%,90%{opacity:1}96%,100%{opacity:0}}@keyframes l2{0%,30%{opacity:0}32%,90%{opacity:1}96%,100%{opacity:0}}@keyframes l3{0%,39%{opacity:0}41%,90%{opacity:1}96%,100%{opacity:0}}@keyframes l4{0%,48%{opacity:0}50%,90%{opacity:1}96%,100%{opacity:0}}@keyframes l5{0%,57%{opacity:0}59%,90%{opacity:1}96%,100%{opacity:0}}
+.cur{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.rise{animation:rise 1.2s ease-out both}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.ln{animation:none;opacity:1}.cur,.rise{animation:none}}
+</style>
+<rect width="1000" height="340" fill="#000"/>
+<rect width="1000" height="340" fill="url(#g)"/>
+<rect x=".5" y=".5" width="999" height="339" rx="6" fill="none" stroke="#3a0b0b"/>
+<text class="mono cap" x="48" y="56">SHIVA DEEPAK</text>
+<rect x="48" y="70" width="36" height="2" fill="#ff0000"/>
+<g class="rise">
+<text class="serif h" x="48" y="140">I build AI systems</text>
+<text class="serif h" x="48" y="200">that <tspan class="em">decide</tspan> what</text>
+<text class="serif h" x="48" y="260">to do next.</text>
+</g>
+<text class="mono cap" x="48" y="314">SHIVADEEPAK.DEV</text>
+<rect x="580" y="40" width="372" height="252" rx="4" fill="#0b0303" fill-opacity=".85" stroke="#3a0b0b"/>
+<text class="mono cap" x="596" y="70" style="font-size:11px">DECISION TRACE</text>
+<text class="mono cap" x="936" y="70" text-anchor="end" style="font-size:11px">REFUSES</text>
+<line x1="596" y1="82" x2="936" y2="82" stroke="#3a0b0b" stroke-dasharray="3 3"/>
+<g class="ln" style="animation-name:l0"><text class="mono d" x="606" y="118">00:00.12</text><text class="mono v" x="676" y="118">observe</text><text class="mono x" x="742" y="118">question received</text></g><g class="ln" style="animation-name:l1"><text class="mono d" x="606" y="148">00:00.43</text><text class="mono v" x="676" y="148">plan</text><text class="mono x" x="742" y="148">one path: retrieve</text></g><g class="ln" style="animation-name:l2"><text class="mono d" x="606" y="178">00:00.74</text><text class="mono v" x="676" y="178">act</text><text class="mono x" x="742" y="178">retrieve → 0 relevant chunks</text></g><g class="ln r" style="animation-name:l3"><text class="mono d" x="606" y="208">00:01.05</text><text class="mono v" x="676" y="208">verify</text><text class="mono x" x="742" y="208">nothing supports the claim</text></g><g class="ln r" style="animation-name:l4"><text class="mono d" x="606" y="238">00:01.36</text><text class="mono v" x="676" y="238">refuse</text><text class="mono x" x="742" y="238">“I can’t support that.”</text></g><g class="ln" style="animation-name:l5"><text class="mono d" x="606" y="268">00:01.67</text><text class="mono v" x="676" y="268">next</text><text class="mono x" x="742" y="268">offer to widen the search</text></g>
+<rect class="cur" x="606" y="282" width="7" height="12" fill="#ff0000"/>
+</svg>
