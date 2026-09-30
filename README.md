@@ -4,7 +4,6 @@
 
 <br>
 
-
-**[shivadeepak.dev](https://shivadeepak.dev)**  
+<a href="https://shivadeepak.dev"><img src="./button.svg" alt="Visit shivadeepak.dev" width="240"></a>
 
 </div>
