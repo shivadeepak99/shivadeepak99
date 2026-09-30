@@ -1,9 +1,10 @@
 name: Waka Readme
 
 on:
-  schedule:
-    # Runs daily at 12:30 AM IST (18:30 UTC)
-    - cron: '30 18 * * *'
+  # Schedule paused: the profile README no longer has the waka section markers.
+  # Restore the cron below (and the markers) to resume the stats.
+  # schedule:
+  #   - cron: '30 18 * * *'
   workflow_dispatch:
 
 jobs:
